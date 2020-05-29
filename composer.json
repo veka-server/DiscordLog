@@ -1,5 +1,5 @@
 {
-    "name": "veka-server/DiscordLog",
+    "name": "veka-server/discord-log",
     "description": "Un middleware pour envoyer les exception/error vers discord",
     "license": "MIT",
     "keywords": ["middleware","minimalist","PSR-15","discord", "log"],
