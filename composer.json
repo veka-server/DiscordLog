@@ -1,0 +1,20 @@
+{
+    "name": "veka-server/DiscordLog",
+    "description": "Un middleware pour envoyer les exception/error vers discord",
+    "license": "MIT",
+    "keywords": ["middleware","minimalist","PSR-15","discord", "log"],
+    "authors": [
+        {
+            "name": "Vanhaezebrouck Nicolas",
+            "email": "contact@veka-server.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "VekaServer\\DiscordLog\\" : "src/"
+        }
+    },
+    "require": {
+        "psr/http-message": "^1.0"
+    }
+}
